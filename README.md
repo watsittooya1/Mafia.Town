@@ -6,21 +6,25 @@ Mafia.Town has added Recreation Areas to Covey.Town, which allows players to sta
 
 Creating a Recreation Area is similar to creating a conversation area. Because a Recreation Area is an extension of a Conversation Area, potential Conversation and Recreation areas occupy the same areas on the map. To create a Recreation Area, simply enter an empty Conversation Area, which is denoted by “(No Topic)” under the area.
 
-<img src="https://user-images.githubusercontent.com/40529597/165191334-25197594-db16-4437-92f3-671b8c6aa910.png" width=30%> <img src ="https://cdn.discordapp.com/attachments/956637095286411266/968293811648344104/unknown.png" width=50%>
+<img src="https://user-images.githubusercontent.com/40529597/165191334-25197594-db16-4437-92f3-671b8c6aa910.png" width=30%>
 
 Once inside the empty Conversation Area, press the spacebar. This will open up a modal window which prompts the user to enter a “Topic of Conversation”, and asks if the user would like to create a Recreation Area. To create a Recreation Area, enter a topic of conversation of your choice, and toggle the “Make Recreation Area?” switch. Then, press the “Create” button in the bottom right corner.
 
-<img src="https://cdn.discordapp.com/attachments/956637095286411266/968293834175946842/unknown.png" width=50%>
+![recarea1](https://github.com/watsittooya1/Mafia.Town/assets/57497072/eba41bfb-d749-4c77-a8b7-3f08a9366aa8)
 
 ## **Creating a Mafia Game**
+
+![createmafia](https://github.com/watsittooya1/Mafia.Town/assets/57497072/88d2c349-46ed-46b6-a119-24dcb767adb6)
 
 <img src="https://cdn.discordapp.com/attachments/956637095286411266/968297314269687828/unknown.png" width=50%>
 
 Players can either create a game or join a preexisting one in a Recreation Area.
 
+![recarea1](https://github.com/watsittooya1/Mafia.Town/assets/57497072/eba41bfb-d749-4c77-a8b7-3f08a9366aa8)
+
 Once you're in a Mafia game lobby, you'll need four players to start a game! After everyone has joined, the host can start a game by pressing the "Start Game" button.
 
-<img src="https://cdn.discordapp.com/attachments/956637095286411266/968293910373875722/unknown.png" width=70%>
+![mafiagameplay](https://github.com/watsittooya1/Mafia.Town/assets/57497072/012437ac-c969-4aaa-a85b-5c1a3ccc307e)
 
 KNOWN BUGS:
 If a player joins a town after a mafia lobby has been created, they will not be able to see/join it when walking into the recreation area’s bounds
