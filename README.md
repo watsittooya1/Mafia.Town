@@ -16,11 +16,9 @@ Once inside the empty Conversation Area, press the spacebar. This will open up a
 
 ![createmafia](https://github.com/watsittooya1/Mafia.Town/assets/57497072/88d2c349-46ed-46b6-a119-24dcb767adb6)
 
-<img src="https://cdn.discordapp.com/attachments/956637095286411266/968297314269687828/unknown.png" width=50%>
-
 Players can either create a game or join a preexisting one in a Recreation Area.
 
-![recarea1](https://github.com/watsittooya1/Mafia.Town/assets/57497072/eba41bfb-d749-4c77-a8b7-3f08a9366aa8)
+![mafialobby](https://github.com/watsittooya1/Mafia.Town/assets/57497072/4a70c112-5108-4d15-9397-9f573752d814)
 
 Once you're in a Mafia game lobby, you'll need four players to start a game! After everyone has joined, the host can start a game by pressing the "Start Game" button.
 
