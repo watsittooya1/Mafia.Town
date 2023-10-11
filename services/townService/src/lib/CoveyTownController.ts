@@ -567,7 +567,9 @@ export default class CoveyTownController {
    */
   mafiaGamePlayerDisconnect(player: Player, mafiaGameID: string): void {
     const mafiaGame = this.mafiaGames.find(game => game.id === mafiaGameID);
-    mafiaGame?.eliminatePlayer(player.id);
+    if (mafiaGame && mafiaGame.phase !== 'lobby') {
+      mafiaGame?.eliminatePlayer(player.id);
+    }
     mafiaGame?.removePlayer(player);
   }
 
