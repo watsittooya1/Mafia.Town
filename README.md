@@ -10,19 +10,19 @@ Creating a Recreation Area is similar to creating a conversation area. Because a
 
 Once inside the empty Conversation Area, press the spacebar. This will open up a modal window which prompts the user to enter a “Topic of Conversation”, and asks if the user would like to create a Recreation Area. To create a Recreation Area, enter a topic of conversation of your choice, and toggle the “Make Recreation Area?” switch. Then, press the “Create” button in the bottom right corner.
 
-![recarea1](https://github.com/watsittooya1/Mafia.Town/assets/57497072/eba41bfb-d749-4c77-a8b7-3f08a9366aa8)
+![recarea1](https://github.com/watsittooya1/Mafia.Town/assets/57497072/330ac11a-0938-4699-82af-d27e88e8eb9c)
 
 ## **Creating a Mafia Game**
 
-![createmafia](https://github.com/watsittooya1/Mafia.Town/assets/57497072/88d2c349-46ed-46b6-a119-24dcb767adb6)
+![createmafia](https://github.com/watsittooya1/Mafia.Town/assets/57497072/565d8216-681e-4b8b-9a2d-3b54e4d85343)
 
 Players can either create a game or join a preexisting one in a Recreation Area.
 
-![mafialobby](https://github.com/watsittooya1/Mafia.Town/assets/57497072/4a70c112-5108-4d15-9397-9f573752d814)
+![mafialobby](https://github.com/watsittooya1/Mafia.Town/assets/57497072/919bc043-99aa-47c2-b905-91e61d8d7eb2)
 
 Once you're in a Mafia game lobby, you'll need four players to start a game! After everyone has joined, the host can start a game by pressing the "Start Game" button.
 
-![mafiagameplay](https://github.com/watsittooya1/Mafia.Town/assets/57497072/012437ac-c969-4aaa-a85b-5c1a3ccc307e)
+![mafiagameplay](https://github.com/watsittooya1/Mafia.Town/assets/57497072/3eafd4ab-85ed-4ff1-acc3-c1a278567c39)
 
 KNOWN BUGS:
 If a player joins a town after a mafia lobby has been created, they will not be able to see/join it when walking into the recreation area’s bounds
